@@ -1,16 +1,16 @@
 # C RISK_FUNC
 
 strcpy <br>
-strncpy
-strtok
-strcat
-printf
-sprintf
-sscanf
-scanf
-gets
-realloc
-system
-fork
+strncpy <br>
+strtok <br>
+strcat <br>
+printf<br>
+sprintf<br>
+sscanf<br>
+scanf<br>
+gets<br>
+realloc<br>
+system<br>
+fork<br>
 
 
