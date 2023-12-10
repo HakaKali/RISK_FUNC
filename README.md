@@ -1,6 +1,6 @@
 # C RISK_FUNC
 
-strcpy \n
+strcpy `
 strncpy
 strtok
 strcat
