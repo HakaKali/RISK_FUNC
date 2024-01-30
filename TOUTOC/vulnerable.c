@@ -24,6 +24,7 @@ int main() {
     } else {
         printf("File exists\n");
     }
+    read_file(filename);
 
     // Add a delay to give time for the attacker to modify the file
     sleep(10); // Sleep for 10 seconds
