@@ -7,7 +7,7 @@ strcat <br>
 printf<br>
 sprintf<br>
 sscanf<br>
-scanf<br>
+scanf      dont forget '&'   <br>
 gets<br>
 realloc<br>
 system<br>
